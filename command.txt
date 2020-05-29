@@ -1,0 +1,2 @@
+python manage.py runserver //Run server
+python manage.py startapp blogs // Create app
